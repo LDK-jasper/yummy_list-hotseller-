@@ -4,6 +4,7 @@
  - windows10( iis )
  - AWS RDS(mysql)
  - codeigniter3
+ - php 5.x
 
 
 공통
