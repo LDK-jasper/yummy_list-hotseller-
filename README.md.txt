@@ -1,5 +1,11 @@
 ### README.md
 
+개발 환경
+ - windows10( iis )
+ - AWS RDS(mysql)
+ - codeigniter3
+
+
 공통
  - 맛집 리스트 보기
  - 맛집 리스트 검색
